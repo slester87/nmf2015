@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="ipdt">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Downloads/ipdt.64b" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/ipdt.64b" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/ipdt.64b" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/ipdt.64b" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/ipdt.64b" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/ipdt.64b" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/ipdt.64b" recursive="false" type="SOURCES" />
+  </library>
+</component>
